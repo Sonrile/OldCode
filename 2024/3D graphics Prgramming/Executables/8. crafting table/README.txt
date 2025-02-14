@@ -1,0 +1,1 @@
+requires a crafting table texture at "C:\Users\Josepius\AppData\Roaming\.myOpenGLProject\textures\crafting_table_front.png"
