@@ -1,0 +1,17 @@
+<svg width="233" height="496" viewBox="0 0 233 496" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M64 70C64 70 78.301 68.5932 89.5 68.5C97.8941 68.4301 102.574 69.5715 109 70C124 71 124.5 91 109 90C93.5 88.9999 64 90 64 90M190 70C190 70 184.095 68.6593 173.5 68.5C164.811 68.3694 151.984 69.3241 145 70C129.5 71.5 127.5 91 145 90C162.5 89 190 90 190 90" stroke="black" stroke-width="10" stroke-linecap="round"/>
+<path d="M64 70C64 17 92 4.99998 127 5C162 5.00002 190 30 190 70" stroke="black" stroke-width="10" stroke-linecap="round"/>
+<path d="M190 90C192 131 162 143 127 143C92 143 64 114 64 90" stroke="black" stroke-width="10" stroke-linecap="round"/>
+<path d="M144 112C139 123.5 121 124 112 112" stroke="black" stroke-width="10" stroke-linecap="round"/>
+<circle cx="96.5" cy="78.5" r="5.5" fill="black"/>
+<circle cx="90.5" cy="77.5" r="4.5" fill="black"/>
+<ellipse cx="94" cy="83.5" rx="6" ry="3.5" fill="black"/>
+<circle cx="88.5" cy="81.5" r="2.5" fill="black"/>
+<circle cx="154" cy="79" r="5" transform="rotate(180 154 79)" fill="black"/>
+<circle cx="160.5" cy="80.5" r="4.5" transform="rotate(180 160.5 80.5)" fill="black"/>
+<ellipse cx="156" cy="84" rx="4" ry="3" transform="rotate(180 156 84)" fill="black"/>
+<ellipse cx="157" cy="74.5" rx="6" ry="3.5" transform="rotate(180 157 74.5)" fill="black"/>
+<circle cx="162.5" cy="76.5" r="2.5" transform="rotate(180 162.5 76.5)" fill="black"/>
+<path d="M182 177C182 138.5 73 134.433 73 177C73 241.5 69 256.5 73 295C77.3988 337.339 182 337.567 182 295V177Z" stroke="black" stroke-width="10" stroke-linejoin="round"/>
+<path d="M155 327.5L176 488.5M100.5 327.5L76 488.5M181 165C177 172.5 201 244 225 277.5M76 165C67.5 163.5 47.5 244.5 8 277.5" stroke="black" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

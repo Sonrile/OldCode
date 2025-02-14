@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="137"
+   height="148"
+   viewBox="0 0 137 148"
+   fill="none"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="Another Head.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.6931996"
+     inkscape:cx="26.264489"
+     inkscape:cy="70.805813"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <path
+     d="M 5,70 C 5,70 17.676392,58.033251 28.875392,57.940051 45.934066,55.974775 52.238274,58.470015 57.85227,65.126177 64.729232,76.415359 61.709249,84.501569 57.85227,90 42.35227,120.67975 5,90 5,90 M 131,70 c 0,0 -8.61268,-11.359113 -19.20768,-11.518413 -8.689,-0.1306 -15.017469,0.282564 -27.416928,7.456894 -7.64773,8.269198 -12.527784,16.774146 -1.083071,27.039966 28.161419,25.260573 47.436909,-3.249215 47.436909,-3.249215"
+     stroke="#000000"
+     stroke-width="10"
+     stroke-linecap="round"
+     id="path1"
+     sodipodi:nodetypes="ccccccccsc"
+     style="stroke-linejoin:round" />
+  <path
+     d="M5 70C5 17 33 4.99998 68 5C103 5.00002 131 30 131 70"
+     stroke="black"
+     stroke-width="10"
+     stroke-linecap="round"
+     id="path2" />
+  <path
+     d="m 131,90 c 2,41 -28,53 -63,53 C 33,143 5,114 5,90"
+     stroke="#000000"
+     stroke-width="10"
+     stroke-linecap="round"
+     id="path3"
+     sodipodi:nodetypes="csc" />
+  <path
+     d="M85 112C80 123.5 62 124 53 112"
+     stroke="black"
+     stroke-width="10"
+     stroke-linecap="round"
+     id="path4" />
+  <circle
+     cx="37.5"
+     cy="78.5"
+     r="5.5"
+     fill="black"
+     id="circle4" />
+  <circle
+     cx="31.5"
+     cy="77.5"
+     r="4.5"
+     fill="black"
+     id="circle5" />
+  <ellipse
+     cx="35"
+     cy="83.5"
+     rx="6"
+     ry="3.5"
+     fill="black"
+     id="ellipse5" />
+  <circle
+     cx="29.5"
+     cy="81.5"
+     r="2.5"
+     fill="black"
+     id="circle6" />
+  <circle
+     cx="95"
+     cy="79"
+     r="5"
+     transform="rotate(180 95 79)"
+     fill="black"
+     id="circle7" />
+  <circle
+     cx="101.5"
+     cy="80.5"
+     r="4.5"
+     transform="rotate(180 101.5 80.5)"
+     fill="black"
+     id="circle8" />
+  <ellipse
+     cx="97"
+     cy="84"
+     rx="4"
+     ry="3"
+     transform="rotate(180 97 84)"
+     fill="black"
+     id="ellipse8" />
+  <ellipse
+     cx="98"
+     cy="74.5"
+     rx="6"
+     ry="3.5"
+     transform="rotate(180 98 74.5)"
+     fill="black"
+     id="ellipse9" />
+  <circle
+     cx="103.5"
+     cy="76.5"
+     r="2.5"
+     transform="rotate(180 103.5 76.5)"
+     fill="black"
+     id="circle9" />
+  <path
+     d="m 62.018001,81.291032 c 1.558767,-3.58516 5.887702,-4.826335 9.782475,-3.505046 1.803334,0.611774 3.513591,1.772895 4.812704,3.505046"
+     stroke="#000000"
+     stroke-width="5.25057"
+     stroke-linecap="round"
+     id="path4-7"
+     style="stroke-width:10;stroke-dasharray:none"
+     sodipodi:nodetypes="csc" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="m 106.12541,78.094476 c 0,0 5.06968,-2.667593 3.66778,-6.64077"
+     id="path9-1-1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:5.51701;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="m 101.43768,74.849799 c 0,0 7.02181,0.503967 8.22508,-3.5506"
+     id="path9-5" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="m 29.404579,78.32612 c 0,0 -5.06967,-2.667593 -3.66777,-6.64077"
+     id="path9-1-1-2" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:5.51701;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="m 34.092309,75.081443 c 0,0 -7.0218,0.503967 -8.22507,-3.5506"
+     id="path9-5-7" />
+</svg>

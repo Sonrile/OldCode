@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="137"
+   height="148"
+   viewBox="0 0 137 148"
+   fill="none"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="Head.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.6114865"
+     inkscape:cx="29.102199"
+     inkscape:cy="44.610608"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <path
+     id="path2"
+     style="display:inline;fill:none;stroke:#000000;stroke-opacity:1;stroke-width:10;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+     inkscape:label="Forehead - Right"
+     d="M 127.6437 49.214846 C 129.8035 55.606366 131 62.557552 131 70 " />
+  <path
+     id="path8"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:label="Forehead - Left"
+     d="M 5,70 C 5,15.988613 39.107953,-2.2903512 72.631276,4.2461035"
+     sodipodi:nodetypes="cc" />
+  <path
+     d="m 131,90 c 2,41 -28,53 -63,53 C 33,143 5,114 5,90"
+     stroke="#000000"
+     stroke-width="10"
+     stroke-linecap="round"
+     id="path3"
+     sodipodi:nodetypes="csc"
+     style="display:inline"
+     inkscape:label="Chin" />
+  <path
+     d="m 85,112 c -5,11.5 -23,12 -32,0"
+     stroke="#000000"
+     stroke-width="10"
+     stroke-linecap="round"
+     id="path4"
+     inkscape:label="Mouth"
+     style="display:inline" />
+  <circle
+     cx="-33.71785"
+     cy="-83.929413"
+     r="7.6751604"
+     fill="#000000"
+     id="circle4"
+     inkscape:label="Left Eye - Dot 4"
+     style="display:inline;stroke-width:1.39548"
+     transform="scale(-1)" />
+  <circle
+     cx="-42.090752"
+     cy="-85.324898"
+     fill="#000000"
+     id="circle5"
+     inkscape:label="Left Eye - Dot 3"
+     style="display:inline;stroke-width:1.39548"
+     r="6.2796764"
+     transform="scale(-1)" />
+  <ellipse
+     cx="-37.206554"
+     cy="-76.952003"
+     rx="8.3729019"
+     ry="4.8841925"
+     fill="#000000"
+     id="ellipse5"
+     inkscape:label="Left Eye - Dot 2"
+     style="display:inline;stroke-width:1.39548"
+     transform="scale(-1)" />
+  <circle
+     cx="-44.881718"
+     cy="-79.742958"
+     r="3.4887092"
+     fill="#000000"
+     id="circle6"
+     inkscape:label="Left Eye - Dot 1"
+     style="display:inline;stroke-width:1.39548"
+     transform="scale(-1)" />
+  <circle
+     cx="-97.44175"
+     cy="-82.387352"
+     r="6.1996045"
+     transform="scale(-1)"
+     fill="#000000"
+     id="circle7"
+     inkscape:label="Right Eye - Dot 5"
+     style="display:inline;stroke-width:1.23992" />
+  <circle
+     cx="-105.50123"
+     cy="-84.247238"
+     r="5.5796442"
+     transform="scale(-1)"
+     fill="#000000"
+     id="circle8"
+     inkscape:label="Right Eye -Dot 4"
+     style="display:inline;stroke-width:1.23992" />
+  <ellipse
+     cx="-99.921577"
+     cy="-88.58696"
+     rx="4.9596839"
+     ry="3.7197628"
+     transform="scale(-1)"
+     fill="#000000"
+     id="ellipse8"
+     inkscape:label="Right Eye - Dot 3"
+     style="display:inline;stroke-width:1.23992" />
+  <ellipse
+     cx="-101.16152"
+     cy="-76.807709"
+     rx="7.4395256"
+     ry="4.3397231"
+     transform="scale(-1)"
+     fill="#000000"
+     id="ellipse9"
+     inkscape:label="Right Eye - Dot 2"
+     style="display:inline;stroke-width:1.23992" />
+  <circle
+     cx="-107.98108"
+     cy="-79.287552"
+     r="3.0998023"
+     transform="scale(-1)"
+     fill="#000000"
+     id="circle9"
+     inkscape:label="Right Eye - Dot 1"
+     style="display:inline;stroke-width:1.23992" />
+  <path
+     d="M 5,70 C 15.366588,46.52201 46.737241,48.688848 57.85227,65.126177 63.069288,73.370027 62.985723,81.936632 57.85227,90 37.989162,119.90769 13.60095,99.643122 5.2370353,90.227097 5.0944129,90.066534 5,90 5,90 M 131,70 C 115.79046,48.258969 92.66676,51.60934 84.375392,65.938481 77.539966,75.696903 75.853884,82.257066 83.292321,92.978447 99.552993,116.41574 125.81501,102.7418 130.52588,90.436703"
+     stroke="#000000"
+     stroke-width="10"
+     stroke-linecap="round"
+     id="path1"
+     sodipodi:nodetypes="cccscccsc"
+     style="display:inline;stroke-linejoin:round"
+     inkscape:label="Glasses - Lenses" />
+  <path
+     d="m 62.018001,81.291032 c 1.558767,-3.58516 5.887702,-4.826335 9.782475,-3.505046 1.803334,0.611774 3.513591,1.772895 4.812704,3.505046"
+     stroke="#000000"
+     stroke-width="5.25057"
+     stroke-linecap="round"
+     id="path4-7"
+     style="display:inline;stroke-width:10;stroke-dasharray:none"
+     sodipodi:nodetypes="csc"
+     inkscape:label="Glasses - bridge" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="m 111.11388,81.69385 c 0,0 5.66693,-0.838825 5.65942,-5.052063"
+     id="path9-1-1"
+     inkscape:label="Right Eyelash - Bottom Part" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:5.51701;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="m 105.39817,77.306226 c 0,0 6.8621,-1.572085 6.8267,-5.801283"
+     id="path9-5"
+     inkscape:label="Right Eyelash - Top Part" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="m 27.236302,81.455209 c 0,0 -5.069671,-2.667593 -3.66777,-6.64077"
+     id="path9-1-1-2"
+     inkscape:label="Left Eyelash - Bottom Part" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:5.51701;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="m 34.146186,77.187342 c 0,0 -6.33304,-3.074452 -5.347819,-7.187445"
+     id="path9-5-7"
+     inkscape:label="Left Eyelash - Top Part" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="M 93.882093,21.229419 C 93.514293,38.330069 127.25795,44.93847 117.71753,16.906975 113.55964,4.6903355 94.268372,3.2696053 93.882093,21.229419 Z"
+     id="path5"
+     sodipodi:nodetypes="sss"
+     inkscape:label="Bow - Middle Circle" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="m 116.76838,13.859149 c 0,0 8.28999,-14.21746479 21.44551,-0.876566 19.46423,19.738518 1.54529,35.189158 -10.51662,36.132849 -12.47403,0.975919 -12.07749,-13.104724 -12.07749,-13.104724"
+     id="path6"
+     sodipodi:nodetypes="cssc"
+     inkscape:label="Bow - Right Circle" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="m 94.204763,28.788903 c 0,0 -16.586964,13.51936 -20.941648,-4.703808 -4.778474,-19.996617 7.614987,-34.390073 19.510144,-32.1797485 12.301571,2.2858418 8.274201,15.7840679 8.274201,15.7840679"
+     id="path6-3"
+     sodipodi:nodetypes="cssc"
+     inkscape:label="Bow - Left Circle" />
+</svg>
